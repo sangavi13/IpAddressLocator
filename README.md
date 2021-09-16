@@ -14,7 +14,8 @@ This is a python project that gives you the location using the ip address.
 - Using this ipaddress,it will find the loaction of that particular ipaddress.
 - finally it will locate on the map.
 
-##screenshots
+## screenshots
+
 ![ip_input](input.png)
 
 ![location_map](map.png)
